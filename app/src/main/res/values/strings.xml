@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DrData</string>
+    <string-array name="search_array">
+        <item>Given Name</item>
+        <item>Sure Name</item>
+        <item>Phone Number</item>
+    </string-array>
+</resources>
